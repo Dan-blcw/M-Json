@@ -11,6 +11,7 @@
          "strCategory":"Chicken",
          "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/category\/chicken.png",
          "strCategoryDescription":"Chicken is a type of domesticated fowl, a subspecies of the red junglefowl."
+      },
       {
          "idCategory":"3",
          "strCategory":"Dessert",
@@ -22,6 +23,7 @@
          "strCategory":"Lamb",
          "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/category\/lamb.png",
          "strCategoryDescription":"Lamb, hogget, and mutton are the meatutside the USA this isult sheep "
+      },
       {
          "idCategory":"5",
          "strCategory":"Miscellaneous",
