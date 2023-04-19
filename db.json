@@ -30,7 +30,5 @@
          "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
          "strCategoryDescription":"General foods that don't fit into another category"
       }
-   ],
-  "meals":null,
-  "lookup": ""
+   ]
 }
